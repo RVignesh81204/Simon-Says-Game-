@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: rgb(225, 252, 70);
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 175px;
+    height: 175px;
+    border-radius: 20px;
+    border: 5px solid black;
+    margin: 1.5rem
+
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.turq{
+    background-color: turquoise;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: rgb(84, 84, 239);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
+
+.bgred{
+    background-color: red;
+}
+
+h3:hover{
+    text-decoration: underline;
+}
